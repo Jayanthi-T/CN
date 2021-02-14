@@ -1,36 +1,4 @@
 
-
-Skip to content
-Using Gmail with screen readers
-programs 
-Meet
-New meeting
-Join a meeting
-Hangouts
-
-8 of many
-Programs
-Inbox
-
-Jayanthi T <jayanthit2112@gmail.com>
-Attachments
-Feb 9, 2021, 12:07 AM (5 days ago)
-to me
-
-
-
--- 
-
-photo		
-JAYANTHI T
-Calm and Cool!
-jayanthit2112@gmail.com
-
-Win with me or Watch me Win!
- 	THANKS
-Create your own email signature
-10 Attachments
-
 import random
 def read(): 
 	fl= []
@@ -91,8 +59,7 @@ if __name__== "__main__":
 			write(c)
 			break
 	print("exit") 
-Network Address Translation.py
-Displaying Network Address Translation.py.
+
 
 
 (python filemname.py)
