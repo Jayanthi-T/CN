@@ -337,3 +337,10 @@ System.exit(0);   //Exit system call
 }
 }
 }
+
+input.txt
+0 2 5 1 -1
+2 0 8 7 9
+5 8 0 -1 4
+1 7 -1 0 2
+-1 9 4 2 0
