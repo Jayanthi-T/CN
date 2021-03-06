@@ -3,7 +3,7 @@ public class DVR
 {
  static int graph[][];
  static int via[][];
- static int rt[][];
+ static int rt[][]; 
  static int v;
  static int e;
 
